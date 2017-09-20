@@ -43,6 +43,6 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        app:srcCompat="@drawable/ball1"
-        android:contentDescription="image1"/>
+        android:contentDescription="@string/image1"
+        app:srcCompat="@drawable/ball1"/>
 </RelativeLayout>
